@@ -1,10 +1,5 @@
-numpy 
 streamlit
 streamlit-webrtc
 ultralytics
 opencv-python-headless
-av
-torch
-torchvision
-tornado
-protobuf
+numpy
